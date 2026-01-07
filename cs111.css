@@ -1,19 +1,42 @@
-body {
 
-    
+
 h1 {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
 
+nav {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
 }
 
 p {
-
+    margin: 15px 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 
-p:hover{
-   
+
+strong:hover {
+    background-color: lightblue;
 }
 
-a:hover {
-    
+
+section {
+    margin: 5px;
 }
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.directions {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
 
