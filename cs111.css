@@ -7,6 +7,7 @@ h1 {
     margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
+    text-align: center;
 }
 
 nav {
@@ -41,5 +42,9 @@ directions {
     font-family:Arial, Helvetica, sans-serif;
 }
 
-
-
+button {
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    
+}
