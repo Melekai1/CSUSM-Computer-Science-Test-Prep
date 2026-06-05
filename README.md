@@ -1,4 +1,4 @@
-CSUSM Computer Science Test Prep
+# CSUSM Computer Science Test Prep
 
 WHAT IS IT:
 A website that provides practice quizzes for Computer Science students, to help them prepare for exams.
