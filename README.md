@@ -1,9 +1,9 @@
 CSUSM Computer Science Test Prep
 
-WHAT IS IT
+WHAT IS IT:
 A website that provides practice quizzes for Computer Science students, to help them prepare for exams.
 
-HOW TO RUN
+HOW TO RUN:
 Click on the available link (https://melekai1.github.io/CSUSM-Computer-Science-Test-Prep/)
 
 FEATURES
